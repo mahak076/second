@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
           primaryColor: new Color(0xff075E54),
           accentColor: new Color(0xff25D366),
-          tabBarTheme: TabBarTheme(labelColor: Colors.white),
+          tabBarTheme: TabBarTheme(labelColor: Colors.red),
           textTheme: TextTheme(
             title: TextStyle(color: Colors.white, fontSize: 16.0),
             body1: TextStyle(color: Colors.black),
